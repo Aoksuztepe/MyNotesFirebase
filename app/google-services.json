@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875828857565",
+    "project_id": "mynotesfirebase-e35af",
+    "storage_bucket": "mynotesfirebase-e35af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875828857565:android:2e45fec82f604d2907e934",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.ayca.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875828857565-40rgdb7k2j9fmakv3vn7ruue2n4a2799.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZ_iVdmQDplNYdmOS1JM9owtNEpO4zIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875828857565-40rgdb7k2j9fmakv3vn7ruue2n4a2799.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
